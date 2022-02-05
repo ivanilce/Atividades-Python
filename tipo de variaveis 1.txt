@@ -1,0 +1,16 @@
+-string
+      Ex: apelido = "Solar"
+
+-número
+      Ex: idade = 25
+          altura = 1.75
+
+-boleanos
+      Ex: possui_cnh = False
+          possui_cnh = True
+
+
+
+
+observação:
+A linguagem Python diferencia entre Maiúscula e Minúscula.

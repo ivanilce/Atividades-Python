@@ -1,0 +1,14 @@
+Condicionais
+
+
+if
+
+else
+
+
+Ex: 
+
+if possui_cnh == True
+   print("Ok! Pode Dirigir!")
+else
+   print(Não! não dirija o carro!")
