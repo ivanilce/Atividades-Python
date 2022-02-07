@@ -1,0 +1,8 @@
+Fundamentos Básicos
+  -Variaveis 
+  -Funções
+  -Coleções
+  -Exceções
+  -Módulos
+  -API (Rest)
+  
